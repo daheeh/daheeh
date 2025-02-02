@@ -1,4 +1,4 @@
-## About Me
+## About Me
 
 <h1 align="left">Hi 👋, I'm Dahee Hong</h1>
 <h3 align="left">안녕하세요! 도전을 즐기는 개발자 홍다희입니다.</h3>
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Computer Architecture, Operating Systems**
 
-- 💬 Ask me about **Spring Boot, React**
+- 💬 Ask me about **Spring Boot, React**
 
 - 📫 How to reach me **odaheei@gmail.com**
 
