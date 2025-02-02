@@ -3,7 +3,6 @@
 <h1 align="left">Hi 👋, I'm Dahee Hong</h1>
 <h3 align="left">안녕하세요! 도전을 즐기는 개발자 홍다희입니다.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=daheeh&label=Profile%20views&color=0e75b6&style=flat" alt="daheeh" /> </p>
 
 - 🌱 I’m currently learning **Computer Architecture, Operating Systems**
 
@@ -11,8 +10,7 @@
 
 - 📫 How to reach me **odaheei@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
