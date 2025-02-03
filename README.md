@@ -2,7 +2,7 @@
 <h1 align="left">Hi 👋, I'm Dahee Hong</h1>
 <br>
 
-- 🌱 I’m currently learning **Computer Architecture, Operating Systems**
+- 🌱 I’m currently learning **Database Design and System Fundamentals**
 
 - 💬 Ask me about **Spring Boot, React**
 
