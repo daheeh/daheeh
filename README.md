@@ -31,7 +31,3 @@
 ![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![aws](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-<br/><br/>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=daheeh&show_icons=true&locale=en&layout=compact)
