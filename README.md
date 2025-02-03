@@ -4,8 +4,8 @@
 
 - 🌱 I’m currently learning **Database Design and System Fundamentals**
 - 💬 Ask me about **Spring Boot, React**
-- 📫 How to reach me **odaheei@gmail.com**  
-
+- 📫 How to reach me **odaheei@gmail.com**
+  
 <br/>
 
 ## Languages and Tools:
@@ -15,6 +15,7 @@
 ![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![fastapi](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+<br/>
 ![mysql](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![redis](https://img.shields.io/badge/Redis-D93B3B?style=for-the-badge&logo=redis&logoColor=white)
