@@ -3,7 +3,7 @@
 <br/>
 
 - 🌱 I’m currently learning **Database Design and System Fundamentals**
-- 💬 Ask me about **Spring Boot, React**
+- 💬 Ask me about **Spring Boot** and **React**
 - 📫 How to reach me **odaheei@gmail.com**
   
 <br/>
